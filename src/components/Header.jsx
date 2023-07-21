@@ -5,7 +5,14 @@ import logo from "../assets/logo2.png"
 import "../styless/header.scss"
 
 const Header = () => {
+
+
+
+
+
     return (
+
+
         <>
             <header>
                 <nav className="navbar">
@@ -25,8 +32,11 @@ const Header = () => {
                     </div>
                 </nav>
             </header>
+
+
         </>
     )
 }
 
 export default Header
+
